@@ -6,7 +6,7 @@
 ## 👋 Hey y'all, I'm Varun S
 
 
- <h2> MERN STACK || DSA C++ || FLUTTER || Proficient in Problem Solving</h2>
+ <h3> MERN STACK || DSA C++ || FLUTTER || Proficient in Problem Solving</h3>
 
 
 ---
