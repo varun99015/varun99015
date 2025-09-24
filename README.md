@@ -24,7 +24,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/varun-s-a40724295"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
 <a href="https://leetcode.com/xbvrFphiup"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Say%20Hi-red?logo=gmail" /></a>
+<a href="mailto:varu99015@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-red?logo=gmail" /></a>
 </p>
 
 ---
@@ -42,6 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40" style="margin-right:15px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tailwindcss.svg" alt="Tailwind CSS" width="40" height="40" style="margin-right:15px;"/>
   
 
   <!-- Frameworks -->
