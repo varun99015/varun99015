@@ -19,7 +19,6 @@
 ### 📈 Profile Stats  
 ![Profile Views](https://komarev.com/ghpvc/?username=varun99015&label=Profile%20views&color=0e75b6&style=flat)
 
----
 
 ### 🔗 Connect With Me  
 <p align="left">
@@ -58,10 +57,11 @@
   <!-- Tools & Cloud -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40" style="margin-right:15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonaws.svg" alt="AWS" width="40" height="40" style="margin-right:15px;"/>
+
 
 </p>
----
+
 
 ### 📊 GitHub Stats  
 <p align="center">
