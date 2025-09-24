@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="banner.png" alt="Banner" />
+  <img src="https://github.com/varun99015/varun99015/main/banner.png" alt="Banner" />
 </p>
 
 <h2 align="center">👋 Hey y'all, I'm <i>Varun S</i></h2>
