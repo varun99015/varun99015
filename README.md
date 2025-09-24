@@ -3,7 +3,7 @@
   <img src="https://github.com/varun99015/varun99015/blob/main/banner.png" alt="Banner" />
 </p>
 
-##👋 Hey y'all, I'm <i>Varun S
+## 👋 Hey y'all, I'm Varun S
 
 
  <h2> MERN STACK || DSA C++ || FLUTTER || Proficient in Problem Solving</h2>
