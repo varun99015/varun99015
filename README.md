@@ -18,7 +18,7 @@
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-white?style=for-the-badge&logo=geeksforgeeks&logoColor=brightgreen)](https://auth.geeksforgeeks.org/user/varu9ag1j)
 
 - 🌍 Based in Banglore, India. 
-- 🔭 Currently learning **System Design, AWS , and Cloud Dev**  
+- 🔭 Currently learning **System Design, AWS , AIML and Cloud Dev**  
 - 💬 Ask me about **DSA, Full-stack Dev, Flutter, React, C/C++**  
 - 📫 Reach me at: **varu99015@gmail.com** 
 
