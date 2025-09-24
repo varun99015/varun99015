@@ -1,18 +1,18 @@
 <!-- Profile Header -->
-<h2 align="center">👋 Hey y'all, I'm <i>Varun</i></h2>
+<h2 align="center">👋 Hey y'all, I'm <i>Varun S</i></h2>
 
 <p align="center">
-  💡 Tech Explorer | 💻 Full-Stack Learner | 🧠 Problem-Solving Enthusiast | 🚀 Open Source Contributor  
+  💡 Tech Explorer | 💻 Full-Stack | 🧠 Problem-Solving Enthusiast | 🚀 Flutter App Dev  
 </p>
 
 ---
 
 ### 👨‍🎓 About Me  
-- 🎓 CSE @ [Your College / University Name]  
-- 🌍 Based in [Your City, Country]  
-- 🔭 Currently learning **System Design, AI/ML, and Cloud Dev**  
+- 🎓 CSE @ MSRIT ,27 
+- 🌍 Based in Banglore, India. 
+- 🔭 Currently learning **System Design, AWS , and Cloud Dev**  
 - 💬 Ask me about **DSA, Full-stack Dev, Flutter, React, Python, Java, C++**  
-- 📫 Reach me at: **yourmail@gmail.com**  
+- 📫 Reach me at: **varu99015@gmail.com**  
 
 ---
 
@@ -23,8 +23,8 @@
 
 ### 🔗 Connect With Me  
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
-<a href="https://leetcode.com/YOUR_LINK"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode" /></a>
+<a href="https://linkedin.com/in/varun-s-a40724295"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
+<a href="https://leetcode.com/xbvrFphiup"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode" /></a>
 <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Say%20Hi-red?logo=gmail" /></a>
 </p>
 
