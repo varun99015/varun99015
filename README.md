@@ -2,7 +2,7 @@
 <h2 align="center">👋 Hey y'all, I'm <i>Varun S</i></h2>
 
 <p align="center">
-  💡 Tech Explorer | 💻 Full-Stack | 🧠 Problem-Solving Enthusiast | 🚀 Flutter App Dev  
+  MERN STACK || DSA C++ || FLUTTER || Proficient in Problem Solving
 </p>
 
 ---
