@@ -30,34 +30,43 @@
 
 ---
 
-### ⚡ Tech Stack  
+### 🚀 Technologies and Languages  
 
-#### 🚀 Languages  
 <p align="left">
-<img src="https://img.shields.io/badge/-C-333?style=flat&logo=c" />
-<img src="https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus" />
-<img src="https://img.shields.io/badge/-Java-333?style=flat&logo=java" />
-<img src="https://img.shields.io/badge/-Python-333?style=flat&logo=python" />
-<img src="https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript" />
-<img src="https://img.shields.io/badge/-Dart-333?style=flat&logo=dart" />
-<img src="https://img.shields.io/badge/-Go-333?style=flat&logo=go" />
-<img src="https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5" />
-<img src="https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3" />
-</p>
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
 
-#### 🛠️ Frameworks, Tools & Cloud  
-<p align="left">
-<img src="https://img.shields.io/badge/-Git-333?style=flat&logo=git" />
-<img src="https://img.shields.io/badge/-GitHub-333?style=flat&logo=github" />
-<img src="https://img.shields.io/badge/-AWS-333?style=flat&logo=amazonaws" />
-<img src="https://img.shields.io/badge/-Flutter-333?style=flat&logo=flutter" />
-<img src="https://img.shields.io/badge/-React-333?style=flat&logo=react" />
-<img src="https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js" />
-<img src="https://img.shields.io/badge/-Express-333?style=flat&logo=express" />
-<img src="https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb" />
-<img src="https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow" />
-<img src="https://img.shields.io/badge/-Docker-333?style=flat&logo=docker" />
+  <!-- Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+
+  <!-- Tools & Cloud -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+
+  <!-- AI/ML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
 </p>
+>
 
 ---
 
