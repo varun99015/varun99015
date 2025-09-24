@@ -3,11 +3,11 @@
   <img src="https://github.com/varun99015/varun99015/blob/main/banner.png" alt="Banner" />
 </p>
 
-<h2 align="center">👋 Hey y'all, I'm <i>Varun S</i></h2>
+<h2>👋 Hey y'all, I'm <i>Varun S</i></h2>
 
-<p align="center">
-  MERN STACK || DSA C++ || FLUTTER || Proficient in Problem Solving
-</p>
+
+###  MERN STACK || DSA C++ || FLUTTER || Proficient in Problem Solving
+
 
 ---
 
