@@ -11,7 +11,7 @@
 - 🎓 CSE @ MSRIT ,27 
 - 🌍 Based in Banglore, India. 
 - 🔭 Currently learning **System Design, AWS , and Cloud Dev**  
-- 💬 Ask me about **DSA, Full-stack Dev, Flutter, React, Python, Java, C++**  
+- 💬 Ask me about **DSA, Full-stack Dev, Flutter, React, C/C++**  
 - 📫 Reach me at: **varu99015@gmail.com**  
 
 ---
