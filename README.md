@@ -41,8 +41,8 @@
 <a href="mailto:varu99015@gmail.com">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black" alt="Gmail"/>
 </a>
-<a href="https://leetcode.com/xbvrFphiup/" target="blank">
-  <img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&labelColor=black" alt="LeetCode"/>
+<a href="https://leetcode.com/xbvrFphiup/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=black" alt="LeetCode"/>
 </a>
 <a href="https://auth.geeksforgeeks.org/user/varu9ag1j" target="blank">
   <img align="center" src="https://img.shields.io/badge/GeeksForGeeks-white?style=for-the-badge&logo=geeksforgeeks&logoColor=brightgreen&labelColor=black" alt="GeeksForGeeks"/>
