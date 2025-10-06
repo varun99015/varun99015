@@ -2,7 +2,7 @@
   <img src="https://github.com/varun99015/varun99015/blob/main/banner.png" alt="Varun S" />
 </p>
 
-## 👋 *Hey ya'll*
+# 👋 *Hey ya'll*
 # *Its* **Varun S**
 
 ###  MERN STACK Dev || DSA C++ || Flutter App Dev || Tech Explorer || AWS
