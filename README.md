@@ -1,6 +1,5 @@
 <p align="center">
   <img src="https://github.com/varun99015/varun99015/blob/main/banner.png" alt="Varun S" />
-   <img src="banner.png" alt="Varun S" />
 </p>
 
 ## 👋 *Hey ya'll*
