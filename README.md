@@ -1,8 +1,9 @@
 <p align="center">
   <img src="https://github.com/varun99015/varun99015/blob/main/banner.png" alt="Varun S" />
+   <img src="banner.png" alt="Varun S" />
 </p>
 
-# 👋 *Hey ya'll*
+## 👋 *Hey ya'll*
 # *Its* **Varun S**
 
 ###  MERN STACK Dev || DSA C++ || Flutter App Dev || Tech Explorer || AWS
@@ -14,12 +15,12 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=varun99015&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge&labelColor=black&logo=github)
 ![Followers](https://img.shields.io/github/followers/varun99015?logo=github&style=for-the-badge&color=0e75b6&labelColor=black)
-![Repositories](https://img.shields.io/badge/Repositories-10+-blue?style=for-the-badge&logo=github&labelColor=black)
-<!--![Contributions](https://img.shields.io/github/commit-activity/m/varun99015?color=0e75b6&label=MONTHLY+COMMITS&logo=github&style=for-the-badge&labelColor=black)-->
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/varun99015&query=$.public_repos&logo=github&label=Public%20Repos&style=for-the-badge&labelColor=black)
+<!-- ![Contributions](https://img.shields.io/github/commit-activity/m/varun99015?color=0e75b6&label=MONTHLY+COMMITS&logo=github&style=for-the-badge&labelColor=black) -->
 
 </div>
 
-## 🚀 **GitHub Stats & Metrics**
+## **GitHub Stats & Metrics**
 
 <div align="center">
 
@@ -27,7 +28,33 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=varun99015&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=ffffff"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varun99015&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=ffffff&langs_count=8"/>
 
+
 </div>
+
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=varun99015&bg_color=312b2e&color=54f2cb&line=f218e3&point=38f702&area=true&hide_border=true)](https://github.com/varun99015/)
+
+
+
+
+
+
+
+
+
+
+
+<p align="center">
+<a href="https://github.com/varun99015"><span>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varun99015&theme=dracula" />
+</span></a> </p>
+ 
+
+
+
+---
+
 
 ## 🔗 **Connect with Me**
 
@@ -41,8 +68,8 @@
 <a href="mailto:varu99015@gmail.com">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black" alt="Gmail"/>
 </a>
-<a href="https://leetcode.com/xbvrFphiup/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=black" alt="LeetCode"/>
+<a href="https://leetcode.com/xbvrFphiup/" target="blank">
+  <img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&labelColor=black" alt="LeetCode"/>
 </a>
 <a href="https://auth.geeksforgeeks.org/user/varu9ag1j" target="blank">
   <img align="center" src="https://img.shields.io/badge/GeeksForGeeks-white?style=for-the-badge&logo=geeksforgeeks&logoColor=brightgreen&labelColor=black" alt="GeeksForGeeks"/>
