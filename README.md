@@ -92,7 +92,7 @@
 
 ### **Frontend Development**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,flutter" alt="Frontend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,flutter," alt="Frontend Technologies"/>
 </p>
 
 ### **Backend & Databases**
@@ -102,5 +102,5 @@
 
 ### **Tools & Platforms**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,aws" alt="Tools & Platforms"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,prometheus,grafana,androidstudio,aws,gcp,terraform,docker" alt="Tools & Platforms"/>
 </p>
